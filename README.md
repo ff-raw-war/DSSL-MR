@@ -1,5 +1,6 @@
-code for DSSL-MR
-run main.m to start
+Code for DSSL-MR.
+
+Run main.m to start
 
 --------------------------------
 MATLAB 2019a
